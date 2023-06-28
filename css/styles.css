@@ -90,3 +90,23 @@ a {
     text-align: center;
     margin: 0 auto;
 }
+/* SECTION THREE */
+.section-three {
+    background-color: #E5E7EB;
+    padding: 70px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+.author {
+    color: #000;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: right;
+    margin-right: 5%;
+}
