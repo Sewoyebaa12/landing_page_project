@@ -110,3 +110,43 @@ a {
     text-align: right;
     margin-right: 5%;
 }
+/* SECTION FOUR */
+.section-four {
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 70px;
+}
+.call-to-action {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px;
+    background-color: #3882F6;
+    gap: 50px;
+    border-radius: 10px;
+}
+.action h3 {
+    color: #F9FAF8;
+}
+.action p {
+    color: #E5E7EB;
+}
+.button button{
+    color: #F9FAF8;
+    padding: 10px 30px;
+    background-color: #3882F6;
+    border: 2px solid whitesmoke;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: #FFF;
+    font-family: 'Roboto';
+    padding: 45px;
+}
